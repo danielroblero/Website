@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Daniel Roblero"
-  avatar : "Small_Linkedin.jpg"
+  avatar : "/assets/images/Small_Linkedin.jpg"
   bio    : "Currently learning Python"
   links:
     - #label: "Website "
