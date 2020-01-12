@@ -107,11 +107,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel r"
+  name             : "Daniel Roblero"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Learning Python"
   location         : "Portland, OR"
-  email            :
+  email            :  "mailto:mr.roblero@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
