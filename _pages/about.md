@@ -1,6 +1,6 @@
 ---
-permalink: /about/
 title: "About"
+permalink: /about/
 header:
   image: "/assets/images/hawaii.jpg"
 ---
