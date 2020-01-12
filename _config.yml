@@ -62,7 +62,7 @@ author:
   avatar : "Small_Linkedin.jpg"
   bio    : "Currently learning Python"
   links:
-    - #label: "Website"
+    - #label: "Website "
       #icon: "fas fa-fw fa-link"
       #url: "https://"
     - #label: "Twitter"
