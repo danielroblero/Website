@@ -4,4 +4,5 @@ permalink: /about/
 header:
   image: "/assets/images/hawaii.jpg"
 ---
-Testing image sizing
+#error log
+Testing image sizing photo won't show up
