@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Daniel Roblero"
+  name   : "Daniel  Roblero"
   avatar : "/assets/images/Small_Linkedin.jpg"
   bio    : "Currently learning Python"
   links:
